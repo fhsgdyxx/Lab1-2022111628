@@ -14,7 +14,7 @@
 #include <limits>
 #include <thread>
 #include <atomic>
-
+#include <atomic
 using namespace std;
 
 // 有向图结构
